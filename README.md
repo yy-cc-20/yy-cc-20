@@ -10,15 +10,15 @@
 
 <img align="right" width="220" src="https://user-images.githubusercontent.com/65067887/215137484-707563bf-ce00-4fe4-bf70-0cef24776d40.gif" />
 
- 🎓 &nbsp;Final-year Software Engineering Student at University Tunku Abdul Rahman
+ #### 🎓 &nbsp;Final-year Software Engineering Student at University Tunku Abdul Rahman
 
- <img width="20" src="https://user-images.githubusercontent.com/65067887/215146142-0358c00b-388e-4c0c-8f2e-add9317767be.png" /> &nbsp;Living in Selangor, Malaysia
+ #### <img width="20" src="https://user-images.githubusercontent.com/65067887/215146142-0358c00b-388e-4c0c-8f2e-add9317767be.png" /> &nbsp;Living in Selangor, Malaysia
 
- 👔 &nbsp;Plan to become a back end developer
+ #### 👔 &nbsp;Plan to become a back end developer
 
- ⚡ &nbsp;Focus on back end development
+ ####⚡ &nbsp;Focus on back end development
 
- ⚡ &nbsp;Focus on system design
+ ####⚡ &nbsp;Focus on system design
 
 
 ## My Github Statistics 📈
