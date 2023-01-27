@@ -2,7 +2,8 @@
 
 <img align="left" width="220" src="https://user-images.githubusercontent.com/65067887/215137484-707563bf-ce00-4fe4-bf70-0cef24776d40.gif" />
 
-<ul style="padding-left:100px">
+<div style="margin-left:100px">
+<ul>
   <li>🎓 Final-year Software Engineering Student at UTAR</li>
 
 <li><img width="20" src="https://user-images.githubusercontent.com/65067887/215146142-0358c00b-388e-4c0c-8f2e-add9317767be.png" />  Living in Selangor, Malaysia</li>
@@ -13,6 +14,7 @@
 
 <li>📍 Focus on system design</li>
 </ul>
+</div>
 
 ### Reach me at
 <div style="display:flex">
