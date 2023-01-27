@@ -16,9 +16,9 @@
 
  #### 👔 &nbsp;Plan to become a back end developer
 
- ####⚡ &nbsp;Focus on back end development
+ #### ⚡ &nbsp;Focus on back end development
 
- ####⚡ &nbsp;Focus on system design
+ #### ⚡ &nbsp;Focus on system design
 
 
 ## My Github Statistics 📈
