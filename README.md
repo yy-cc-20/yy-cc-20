@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+https://user-images.githubusercontent.com/65067887/215127494-e73a354f-8691-4ce9-84da-b65a7f143a26.mp4
+
+
+❤️ logical thinking
+❤️ back end development
+❤️ system design
+
 <!--
 **yy-cc-20/yy-cc-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
