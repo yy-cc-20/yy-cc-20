@@ -1,4 +1,4 @@
-#👋 Hi, I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Chu Yan</a>
+# 👋 Hi, I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Chu Yan</a>
 
 #### 🎓 &nbsp;Final-year Software Engineering Student at University Tunku Abdul Rahman
 
