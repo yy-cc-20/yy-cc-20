@@ -1,9 +1,8 @@
 ### Hi there 👋
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The !](https://giphy.com/embed/l1J9B5S1n7G4zMm64)
 
-https://giphy.com/embed/l1J9B5S1n7G4zMm64
+![The !](https://giphy.com/gifs/animation-illustration-water-l1J9B5S1n7G4zMm64)
 
-https://giphy.com/gifs/animation-illustration-water-l1J9B5S1n7G4zMm64
 
 
 https://user-images.githubusercontent.com/65067887/215127494-e73a354f-8691-4ce9-84da-b65a7f143a26.mp4
