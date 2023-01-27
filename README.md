@@ -1,16 +1,5 @@
 <h1 align="center"> 👋 Hi, I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Chu Yan</a> </h1>
 
-<div align="center">
-  
-![](https://visitor-badge.glitch.me/badge?page_id=yy-cc-20.yy-cc-20)
-<a href="https://www.instagram.com/chu.yan_/">
-  <img width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">
-  <img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</div>
-
 #### 🎓 &nbsp;Final-year Software Engineering Student at University Tunku Abdul Rahman
 
 #### <img width="20" src="https://user-images.githubusercontent.com/65067887/215146142-0358c00b-388e-4c0c-8f2e-add9317767be.png" /> &nbsp;Living in Selangor, Malaysia
@@ -22,6 +11,16 @@
 #### ⚡ &nbsp;Focus on system design
 
 #### 🙃 &nbsp;Fun fact: I like to solve logical problem e.g. puzzles and Leetcode questions
+
+<br/>
+
+![](https://visitor-badge.glitch.me/badge?page_id=yy-cc-20.yy-cc-20)
+<a href="https://www.instagram.com/chu.yan_/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <br/>
 <br/>
