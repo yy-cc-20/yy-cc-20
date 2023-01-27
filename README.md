@@ -20,7 +20,7 @@
 
 #### ⚡ &nbsp;Focus on system design
 
-#### 🙃 &nbsp;Fun fact: I like to solve logical problem
+#### 🙃 &nbsp;Fun fact: I like to solve logical problem e.g. Leetcode questions
 
 ## My Github Statistics 📈
 <div align="center">
