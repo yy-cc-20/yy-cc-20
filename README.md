@@ -1,12 +1,15 @@
-# 👋 Hi, I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Chu Yan</a> 
+<h1 align="center"> 👋 Hi, I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Chu Yan</a> </h1>
 
+<div align="center">
+  
 ![](https://visitor-badge.glitch.me/badge?page_id=yy-cc-20.yy-cc-20)
 <a href="https://www.instagram.com/chu.yan_/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</div>
 
 #### 🎓 &nbsp;Final-year Software Engineering Student at University Tunku Abdul Rahman
 
