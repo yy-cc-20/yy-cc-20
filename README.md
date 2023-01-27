@@ -4,7 +4,7 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;🎓 Final-year Software Engineering Student at UTAR
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; <img width="10" src="https://user-images.githubusercontent.com/65067887/215146142-0358c00b-388e-4c0c-8f2e-add9317767be.png" />  Living in Selangor, Malaysia
+#### &nbsp;&nbsp;&nbsp;&nbsp; <img width="20" src="https://user-images.githubusercontent.com/65067887/215146142-0358c00b-388e-4c0c-8f2e-add9317767be.png" />  Living in Selangor, Malaysia
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;👔 Want to become a back end developer
 
