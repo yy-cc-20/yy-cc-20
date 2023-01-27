@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![image](https://user-images.githubusercontent.com/65067887/215130151-bd78948c-69a2-4d64-833c-995a02aeee7e.png)
+<div style="width:100%;height:0;padding-bottom:150%;position:relative;"><iframe src="https://giphy.com/embed/l1J9B5S1n7G4zMm64" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-illustration-water-l1J9B5S1n7G4zMm64">via GIPHY</a></p>
 
 https://user-images.githubusercontent.com/65067887/215127494-e73a354f-8691-4ce9-84da-b65a7f143a26.mp4
 
