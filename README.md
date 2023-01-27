@@ -2,15 +2,15 @@
 
 <img align="left" width="220" src="https://user-images.githubusercontent.com/65067887/215137484-707563bf-ce00-4fe4-bf70-0cef24776d40.gif" />
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;🎓 Final-year Software Engineering Student at UTAR
+- 🎓 Final-year Software Engineering Student at UTAR
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; <img width="20" src="https://user-images.githubusercontent.com/65067887/215146142-0358c00b-388e-4c0c-8f2e-add9317767be.png" />  Living in Selangor, Malaysia
+- <img width="20" src="https://user-images.githubusercontent.com/65067887/215146142-0358c00b-388e-4c0c-8f2e-add9317767be.png" />  Living in Selangor, Malaysia
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;👔 Want to become a back end developer
+- 👔 Want to become a back end developer
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;📍 Focus on back end development
+- 📍 Focus on back end development
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;📍 Focus on system design
+- 📍 Focus on system design
 
 ### Reach me at
 <div style="display:flex">
