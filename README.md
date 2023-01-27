@@ -1,22 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-![giphy (1)](https://user-images.githubusercontent.com/65067887/215131928-94e26335-f10a-4740-87ba-4c1e7a5233ea.gif)
+![QubyChanGIF](https://user-images.githubusercontent.com/65067887/215137484-707563bf-ce00-4fe4-bf70-0cef24776d40.gif)
 
-❤️ logical thinking
+🎓 final-year Software Engineering Student at UTAR 
+👔 want to become a back end developer
 ❤️ back end development
 ❤️ system design
-
-<!--
-**yy-cc-20/yy-cc-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍👩‍💻
