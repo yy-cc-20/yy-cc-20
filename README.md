@@ -1,4 +1,4 @@
-# Hi there, I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Yang Chu Yan</a> 👋
+# 👋 Hi, I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Chu Yan</a> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yy-cc-20.yy-cc-20)
 <a href="https://www.instagram.com/chu.yan_/">
