@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img align="left" width="220" src="https://user-images.githubusercontent.com/65067887/215137484-707563bf-ce00-4fe4-bf70-0cef24776d40.gif" />
+<img style="margin-right:10px" align="left" width="220" src="https://user-images.githubusercontent.com/65067887/215137484-707563bf-ce00-4fe4-bf70-0cef24776d40.gif" />
 
-<div style="margin-left:100px">
+<div>
 <ul>
   <li>🎓 Final-year Software Engineering Student at UTAR</li>
 
