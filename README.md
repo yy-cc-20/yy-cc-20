@@ -1,4 +1,6 @@
-# Hi there 👋 I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Yang Chu Yan</a> ![](https://visitor-badge.glitch.me/badge?page_id=yy-cc-20.yy-cc-20)
+# Hi there, I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Yang Chu Yan</a> 👋
+
+![](https://visitor-badge.glitch.me/badge?page_id=yy-cc-20.yy-cc-20)
 
 <img align="right" width="220" src="https://user-images.githubusercontent.com/65067887/215137484-707563bf-ce00-4fe4-bf70-0cef24776d40.gif" />
 
