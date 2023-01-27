@@ -13,14 +13,15 @@
 #### 🙃 &nbsp;Fun fact: I like to solve logical problem e.g. puzzles and Leetcode questions
 
 <br/>
-
-![](https://visitor-badge.glitch.me/badge?page_id=yy-cc-20.yy-cc-20)
 <a href="https://www.instagram.com/chu.yan_/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=yy-cc-20.yy-cc-20)
+
 
 <br/>
 <br/>
