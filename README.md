@@ -1,6 +1,12 @@
 # Hi there, I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Yang Chu Yan</a> 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yy-cc-20.yy-cc-20)
+<a href="https://www.instagram.com/chu.yan_/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <img align="right" width="220" src="https://user-images.githubusercontent.com/65067887/215137484-707563bf-ce00-4fe4-bf70-0cef24776d40.gif" />
 
@@ -20,9 +26,4 @@
 <!--<img  width="55%" src="https://github-readme-stats.vercel.app/api?username=yy-cc-20&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&include_all_commits=true" /> -->
 <img  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yy-cc-20&layout=compact&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24" />
 
-<a href="https://www.instagram.com/chu.yan_/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
