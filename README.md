@@ -1,17 +1,5 @@
 # 👋 Hi, I am <a href="https://www.linkedin.com/in/yang-chu-yan-265b721a6/">Chu Yan</a> 
 ![](https://visitor-badge.glitch.me/badge?page_id=yy-cc-20.yy-cc-20)
-  
-### 🎓 &nbsp;Final-year Software Engineering student at University Tunku Abdul Rahman
-
-### <img width="20" src="https://user-images.githubusercontent.com/65067887/215146142-0358c00b-388e-4c0c-8f2e-add9317767be.png" /> &nbsp;Living in Selangor, Malaysia
-
-### 👔 &nbsp;Plan to become a back end developer
-
-### ⚡ &nbsp;Focus on back end development
-
-### ⚡ &nbsp;Focus on system design
-
-### 🙃 &nbsp;Fun fact: I like to solve logical problem e.g. puzzles and Leetcode questions
 
 <br/>
 <a href="https://www.instagram.com/chu.yan_/">
